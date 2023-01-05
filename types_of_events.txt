@@ -1,0 +1,320 @@
+10-y Bond Auction
+30-y Bond Auction
+ADP Non-Farm Employment Change
+AIG Construction Index
+AIG Manufacturing Index
+AIG Services Index
+ANZ Business Confidence
+ANZ Commodity Prices m/m
+ANZ Job Advertisements m/m
+Advance GDP Price Index q/q
+Advance GDP q/q
+All Industries Activity m/m
+Asset Purchase Facility
+Average Cash Earnings y/y
+Average Earnings Index 3m/y
+Average Hourly Earnings m/m
+BOJ Core CPI y/y
+BOJ Policy Rate
+BRC Retail Sales Monitor y/y
+BRC Shop Price Index y/y
+BSI Manufacturing Index
+Bank Lending y/y
+Belgian NBB Business Climate
+Building Approvals m/m
+Building Consents m/m
+Building Permits
+Building Permits m/m
+Business Inventories m/m
+BusinessNZ Manufacturing Index
+BusinessNZ Services Index
+CB Consumer Confidence
+CB Leading Index m/m
+CBI Industrial Order Expectations
+CBI Realized Sales
+CPI Flash Estimate y/y
+CPI m/m
+CPI q/q
+CPI y/y
+Caixin Flash Manufacturing PMI
+Caixin Manufacturing PMI
+Caixin Services PMI
+Capacity Utilization Rate
+Capital Spending q/y
+Cash Rate
+Challenger Job Cuts y/y
+Chicago PMI
+Claimant Count Change
+Commodity Prices y/y
+Common CPI y/y
+Company Operating Profits q/q
+Construction Output m/m
+Construction PMI
+Construction Spending m/m
+Construction Work Done q/q
+Consumer Confidence
+Consumer Credit m/m
+Consumer Inflation Expectations
+Core CPI Flash Estimate y/y
+Core CPI m/m
+Core CPI y/y
+Core Durable Goods Orders m/m
+Core Machinery Orders m/m
+Core PCE Price Index m/m
+Core PPI m/m
+Core Retail Sales m/m
+Core Retail Sales q/q
+Corporate Profits q/q
+Credit Card Spending y/y
+Credit Suisse Economic Expectations
+Crude Oil Inventories
+Current Account
+Durable Goods Orders m/m
+EU Membership Vote
+Economic Stabilization Bill Vote
+Economy Watchers Sentiment
+Empire State Manufacturing Index
+Employment Change
+Employment Change q/q
+Employment Cost Index q/q
+Employment Level
+Existing Home Sales
+FPI m/m
+Factory Orders m/m
+Fed Chairman Nomination Vote
+Federal Budget Balance
+Federal Funds Rate
+Final CPI y/y
+Final Core CPI y/y
+Final Employment Change q/q
+Final GDP Price Index q/q
+Final GDP Price Index y/y
+Final GDP q/q
+Final Manufacturing PMI
+Final Services PMI
+Final Wholesale Inventories m/m
+Fixed Asset Investment ytd/y
+Flash Employment Change q/q
+Flash GDP q/q
+Flash Manufacturing PMI
+Flash Services PMI
+Foreign Currency Reserves
+Foreign Direct Investment ytd/y
+Foreign Securities Purchases
+French 10-y Bond Auction
+French Consumer Spending m/m
+French Final CPI m/m
+French Final Manufacturing PMI
+French Final Private Payrolls q/q
+French Final Services PMI
+French Flash GDP q/q
+French Flash Manufacturing PMI
+French Flash Services PMI
+French Gov Budget Balance
+French Industrial Production m/m
+French Prelim CPI m/m
+French Prelim GDP q/q
+French Prelim Private Payrolls q/q
+French Trade Balance
+GDP m/m
+GDP q/q
+GDP q/y
+GDT Price Index
+German 10-y Bond Auction
+German 30-y Bond Auction
+German Factory Orders m/m
+German Final CPI m/m
+German Final GDP q/q
+German Final Manufacturing PMI
+German Final Services PMI
+German Flash Manufacturing PMI
+German Flash Services PMI
+German GfK Consumer Climate
+German Import Prices m/m
+German Industrial Production m/m
+German PPI m/m
+German Prelim CPI m/m
+German Prelim GDP q/q
+German Retail Sales m/m
+German Trade Balance
+German Unemployment Change
+German WPI m/m
+German ZEW Economic Sentiment
+German ifo Business Climate
+GfK Consumer Confidence
+Goods Trade Balance
+Greek Bailout Vote
+Greek Gov Debt Crisis Vote
+HIA New Home Sales m/m
+HPI m/m
+HPI q/q
+HPI y/y
+Halifax HPI m/m
+High Street Lending
+Home Loans m/m
+Household Spending y/y
+Housing Equity Withdrawal q/q
+Housing Starts
+Housing Starts q/q
+Housing Starts y/y
+IBD/TIPP Economic Optimism
+IPPI m/m
+ISM Manufacturing PMI
+ISM Manufacturing Prices
+ISM Services PMI
+Import Prices m/m
+Import Prices q/q
+Index of Services 3m/3m
+Industrial New Orders m/m
+Industrial Production m/m
+Industrial Production q/q
+Industrial Production y/y
+Inflation Expectations q/q
+Irish Lisbon Treaty Vote
+Irish Stability Treaty Vote
+Italian 10-y Bond Auction
+Italian Constitution Amendment Vote
+Italian Industrial Production m/m
+Italian Manufacturing PMI
+Italian Monthly Unemployment Rate
+Italian Prelim CPI m/m
+Italian Prelim GDP q/q
+Italian Quarterly Unemployment Rate
+Italian Retail Sales m/m
+Italian Services PMI
+Italian Trade Balance
+Ivey PMI
+JOLTS Job Openings
+KOF Economic Barometer
+Labor Cost Index q/q
+Labor Market Conditions Index m/m
+Labor Productivity q/q
+Leading Index m/m
+Leading Indicators
+Libor Rate
+Long Term Refinancing Operation
+M2 Money Stock y/y
+M2 Money Supply y/y
+M3 Money Supply y/y
+M4 Money Supply m/m
+MI Inflation Expectations
+MI Inflation Gauge m/m
+MI Leading Index m/m
+MPC Asset Purchase Facility Votes
+MPC Official Bank Rate Votes
+Main Refinancing Rate
+Manufacturing PMI
+Manufacturing Production m/m
+Manufacturing Sales m/m
+Manufacturing Sales q/q
+Median CPI y/y
+Monetary Base y/y
+Mortgage Approvals
+Mortgage Delinquencies
+NAB Business Confidence
+NAB Quarterly Business Confidence
+NAHB Housing Market Index
+NFIB Small Business Index
+NHPI m/m
+NIESR GDP Estimate
+NZIER Business Confidence
+National Core CPI y/y
+Nationwide Consumer Confidence
+Nationwide HPI m/m
+Natural Gas Storage
+Net Lending to Individuals m/m
+New Home Sales
+New Loans
+New Motor Vehicle Sales m/m
+News Event Title
+Non-Farm Employment Change
+Non-Manufacturing PMI
+ONS HPI y/y
+Official Bank Rate
+Official Cash Rate
+Overnight Call Rate
+Overnight Rate
+Overseas Trade Index q/q
+PPI Input m/m
+PPI Input q/q
+PPI Output m/m
+PPI Output q/q
+PPI m/m
+PPI q/q
+PPI y/y
+Parliament Brexit Vote
+Pending Home Sales m/m
+Personal Income m/m
+Personal Spending m/m
+Philly Fed Manufacturing Index
+Prelim ANZ Business Confidence
+Prelim Business Investment q/q
+Prelim Flash GDP q/q
+Prelim GDP Price Index q/q
+Prelim GDP Price Index y/y
+Prelim GDP q/q
+Prelim Industrial Production m/m
+Prelim Machine Tool Orders y/y
+Prelim Mortgage Approvals
+Prelim Nonfarm Productivity q/q
+Prelim Unit Labor Costs q/q
+Prelim UoM Consumer Sentiment
+Prelim UoM Inflation Expectations
+Prelim Wholesale Inventories m/m
+Private Capital Expenditure q/q
+Private Loans y/y
+Private Sector Credit m/m
+Public Sector Net Borrowing
+Quarterly Retail Sales q/q
+REINZ HPI m/m
+RICS House Price Balance
+RMPI m/m
+RPI y/y
+Retail PMI
+Retail Sales m/m
+Retail Sales q/q
+Retail Sales y/y
+Revised Business Investment q/q
+Revised GDP q/q
+Revised Industrial Production m/m
+Revised Nonfarm Productivity q/q
+Revised Unit Labor Costs q/q
+Revised UoM Consumer Sentiment
+Revised UoM Inflation Expectations
+Richmond Manufacturing Index
+Rightmove HPI m/m
+S&P/CS Composite-20 HPI y/y
+SECO Consumer Climate
+SNB Gold Asset Vote
+SNB Policy Rate
+SPPI y/y
+Scottish Independence Vote
+Second Estimate GDP q/q
+Sentix Investor Confidence
+Spanish 10-y Bond Auction
+Spanish Flash CPI y/y
+Spanish Flash GDP q/q
+Spanish Manufacturing PMI
+Spanish Services PMI
+Spanish Unemployment Change
+Spanish Unemployment Rate
+TIC Long-Term Purchases
+Tankan Manufacturing Index
+Tankan Non-Manufacturing Index
+Tertiary Industry Activity m/m
+Tokyo Core CPI y/y
+Total Vehicle Sales
+Trade Balance
+Trimmed CPI y/y
+Trimmed Mean CPI q/q
+UBS Consumption Indicator
+USD-Denominated Trade Balance
+Unconditional Basic Income Vote
+Unemployment Claims
+Unemployment Rate
+Visitor Arrivals m/m
+Wage Price Index q/q
+Wards Total Vehicle Sales
+Westpac Consumer Sentiment
+Wholesale Sales m/m
+ZEW Economic Sentiment
